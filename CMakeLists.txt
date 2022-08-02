@@ -12,6 +12,7 @@ endif(ENABLE_CUDA)
 find_package(Python REQUIRED)
 find_package(PythonLibs REQUIRED)
 find_package(Torch REQUIRED)
+find_package(MKL REQUIRED)
 enable_testing()
 
 # Source files of the library
