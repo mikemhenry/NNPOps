@@ -12,4 +12,5 @@ dependencies:
   - python
   - pytorch-gpu
   - sysroot_linux-64 2.17
+  - mkl-include
   - mkl
