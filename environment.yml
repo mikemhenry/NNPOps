@@ -9,6 +9,8 @@ dependencies:
   - nvcc_linux-64 11.2
   - torchani 2.2.2
   - pytest
-  - python 3.10.*
-  - pytorch-gpu 1.11.0
+  - python
+  - pytorch-gpu
   - sysroot_linux-64 2.17
+  - mkl-include
+  - mkl
